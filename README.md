@@ -1,2 +1,2 @@
 # MiniGame
-MiniGame is a small game using ardunio where the user control a Dot
+In this repository, I have uploaded the source code written in C++ for a MiniGame project, along with the schematics used to create this game. This MiniGame is inspired by the popular game Snake and offers a unique twist. In this game, the user must control a dot using a thumbstick joystick. The dot will continuously move and must remain inside a predefined rectangular box. Additionally, a timer is provided to show the user how long they were alive for.
